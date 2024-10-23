@@ -1,0 +1,50 @@
+.container-fluid {
+    background-color: 56A4CA;
+    height: -auto;
+}
+.faster-one {
+    font-family: 'Faster One', serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.w-25 {
+    margin-top: -15%;
+    align-items: end;
+}
+.PY-4 {
+    background-color: white;
+}
+.skills-section {
+    background-color: #f8f9fa; /* Couleur de fond de la section */
+}
+
+.skills-section {
+    background-color: #f8f9fa; /* Couleur de fond de la section */
+}
+
+.skill-title {
+    display: block;
+    background-color: #56A4CA; /* Couleur d'arrière-plan du titre */
+    border-radius: 8px; /* Bordures arrondies */
+    padding: 10px;
+    color: white; /* Couleur du texte */
+    margin-bottom: 10px; /* Espacement en bas */
+}
+
+.skill-image {
+    width: 100%; /* Largeur de 100% pour occuper tout l'espace du conteneur */
+    height: 200px; /* Hauteur fixe pour toutes les images */
+    object-fit: cover; /* Permet de conserver le ratio d'aspect et de remplir le conteneur */
+    border-radius: 8px; /* Bordures arrondies pour l'image */
+}
+
+.card {
+    border-radius: 15px; /* Bordures arrondies pour la carte */
+    overflow: hidden; /* Pour cacher les débordements des bordures arrondies */
+}
+
+
+.custom-img-size {
+    max-width: 80; /* Ajustez selon les besoins */
+    height: auto; /* Pour garder les proportions */
+}
